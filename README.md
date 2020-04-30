@@ -4,4 +4,4 @@ ClassRoster is a C++ program that takes an array of students and allows you to f
 
 ## Installation
 
-Download all the repos and compile and then install.
+Download all the repos, compile, then run!
